@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AreaCalcLib</name>
+    </assembly>
+    <members>
+        <member name="T:AreaCalcLib.Circle">
+            <summary>
+            Класс для рассчёта площади круга
+            </summary>
+        </member>
+        <member name="M:AreaCalcLib.Circle.#ctor(System.Double)">
+            <summary>
+            Конструктор класса для рассчёта площади круга. 
+            Имеет входной параметр: радиус окружности
+            </summary>
+        </member>
+        <member name="M:AreaCalcLib.Circle.Checked">
+            <summary>
+            Проверяет, является ли круг валидным.
+            Валидным является круг, у которого длина радиуса > 0
+            </summary>
+        </member>
+        <member name="M:AreaCalcLib.Circle.GetArea">
+            <summary>
+            Возвращает площадь круга
+            </summary>
+        </member>
+        <member name="T:AreaCalcLib.Triangle">
+            <summary>
+            Класс для рассчёта площади треугольника
+            </summary>
+        </member>
+        <member name="M:AreaCalcLib.Triangle.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            Конструктор класса принимает в качестве входных параметров 
+            длины сторон треугольника
+            </summary>
+        </member>
+        <member name="M:AreaCalcLib.Triangle.Checked">
+            <summary>
+            Проверяет, является ли треугольник валидным
+            </summary>
+        </member>
+        <member name="M:AreaCalcLib.Triangle.GetArea">
+            <summary>
+            Возвращает площадь треугольника
+            </summary>
+        </member>
+        <member name="M:AreaCalcLib.Triangle.IsRightTriangle">
+            <summary>
+            Проверяет, является ли треугольник прямоугольным.
+            </summary>
+        </member>
+    </members>
+</doc>
