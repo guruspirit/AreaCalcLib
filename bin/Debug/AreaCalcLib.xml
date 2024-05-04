@@ -9,6 +9,11 @@
             Класс для рассчёта площади круга
             </summary>
         </member>
+        <member name="P:AreaCalcLib.Circle.R">
+            <summary>
+            Радиус окружности 
+            </summary>
+        </member>
         <member name="M:AreaCalcLib.Circle.#ctor(System.Double)">
             <summary>
             Конструктор класса для рассчёта площади круга. 
@@ -26,9 +31,39 @@
             Возвращает площадь круга
             </summary>
         </member>
+        <member name="T:AreaCalcLib.Figure">
+            <summary>
+            от абстрактного класса Figure должны наследоваться все фигуры, входящие в библиотеку 
+            </summary>
+        </member>
+        <member name="M:AreaCalcLib.Figure.Checked">
+            <summary>
+            абстрактный метод для проверки входных параметров
+            </summary>
+        </member>
+        <member name="M:AreaCalcLib.Figure.GetArea">
+            <summary>
+            абстрактный метод для получения площади фигуры 
+            </summary>
+        </member>
         <member name="T:AreaCalcLib.Triangle">
             <summary>
             Класс для рассчёта площади треугольника
+            </summary>
+        </member>
+        <member name="P:AreaCalcLib.Triangle.A">
+            <summary>
+            сторона A
+            </summary>
+        </member>
+        <member name="P:AreaCalcLib.Triangle.B">
+            <summary>
+            сторона B
+            </summary>
+        </member>
+        <member name="P:AreaCalcLib.Triangle.C">
+            <summary>
+            сторона C
             </summary>
         </member>
         <member name="M:AreaCalcLib.Triangle.#ctor(System.Double,System.Double,System.Double)">

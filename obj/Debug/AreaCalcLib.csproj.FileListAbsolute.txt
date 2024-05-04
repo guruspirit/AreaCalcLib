@@ -1,0 +1,7 @@
+C:\dev\src\c#\MindBox\AreaCalcLib\bin\Debug\AreaCalcLib.xml
+C:\dev\src\c#\MindBox\AreaCalcLib\bin\Debug\AreaCalcLib.dll
+C:\dev\src\c#\MindBox\AreaCalcLib\bin\Debug\AreaCalcLib.pdb
+C:\dev\src\c#\MindBox\AreaCalcLib\obj\Debug\AreaCalcLib.csproj.AssemblyReference.cache
+C:\dev\src\c#\MindBox\AreaCalcLib\obj\Debug\AreaCalcLib.csproj.CoreCompileInputs.cache
+C:\dev\src\c#\MindBox\AreaCalcLib\obj\Debug\AreaCalcLib.dll
+C:\dev\src\c#\MindBox\AreaCalcLib\obj\Debug\AreaCalcLib.pdb

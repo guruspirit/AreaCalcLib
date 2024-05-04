@@ -23,15 +23,9 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
 *.out
 *.app
-
 *.vsidx
-/Properties
-/packages
-/obj/Debug
-/.vs
